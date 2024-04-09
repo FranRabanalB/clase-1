@@ -1,1 +1,8 @@
-# clase-1
+>[!IMPORTANT]
+> Clase Repaso GIT MOD
+
+#Clase repaso
+
+### Nombre Alumnos
+
+- Francisca Rabanal
